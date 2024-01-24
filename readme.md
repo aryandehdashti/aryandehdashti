@@ -99,7 +99,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/aryandehdashti/aryandehdashti/output/snake.svg" alt="Snake animation" />
-
-###
